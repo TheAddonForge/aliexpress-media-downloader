@@ -57,8 +57,8 @@
 
 ### 📺 Walkthrough: Downloading AliExpress Videos & Images
 <figure>
-  <a href="https://www.youtube.com/watch?v=AJiSXmuzv0c">
-    <img src="https://img.youtube.com/vi/AJiSXmuzv0c/0.jpg" alt="YouTube Demo" width="480">
+  <a href="https://www.youtube.com/watch?v=Bv1E4FbDUII">
+    <img src="https://img.youtube.com/vi/Bv1E4FbDUII/0.jpg" alt="YouTube Demo" width="480">
   </a>
   <figcaption><b>Video Demo:</b> Step-by-step guide showing how to use the extension.</figcaption>
 </figure>
